@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "../my-app/src/ClassCom.tsx", "../my-app/src/FuncCom.tsx"  ]
 }
